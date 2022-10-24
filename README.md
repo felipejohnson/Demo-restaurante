@@ -8,9 +8,9 @@
 
 ## 📝 Descrição 
 
-Bio contendo os links das minhas redes sociais.  
+Demo de restaurante, Restaurante Tô com Fome. O sabor da vida depende de quem a tempera!.  
 
-- site final: [Demo-restaurante]()
+- site final: [Demo-restaurante](https://demo-restaurante.vercel.app/)
 
 <br>
 
@@ -29,8 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📚 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
-- [ScrollReveal](https://scrollrevealjs.org/)
-- [FORMSUBMIT](https://formsubmit.co/)
+- [LazySizes](https://github.com/aFarkas/lazysizes)
+- [jQuery](https://jquery.com/)
 
 ## 🔗 Links
 
