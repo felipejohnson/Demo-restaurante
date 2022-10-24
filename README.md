@@ -14,7 +14,7 @@ Demo de restaurante, Restaurante Tô com Fome. O sabor da vida depende de quem a
 
 <br>
  
-## 🚀 Tecnologias
+## 🚀 Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
