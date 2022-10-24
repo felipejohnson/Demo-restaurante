@@ -13,7 +13,7 @@ Demo de restaurante, Restaurante Tô com Fome. O sabor da vida depende de quem a
 - site final: [Demo-restaurante](https://demo-restaurante.vercel.app/)
 
 <br>
-
+ 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
