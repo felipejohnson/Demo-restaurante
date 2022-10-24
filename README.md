@@ -10,7 +10,7 @@
 
 Bio contendo os links das minhas redes sociais.  
 
-- site final: [Bio-felipe-johnson](https://felipejohnson-bio.vercel.app/)
+- site final: [Demo-restaurante]()
 
 <br>
 
@@ -18,9 +18,9 @@ Bio contendo os links das minhas redes sociais.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React JS.
-- CSS.
-- HTML.
+- JavaScript.
+- CSS3.
+- HTML5.
 
 <br>
 
