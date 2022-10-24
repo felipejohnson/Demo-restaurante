@@ -19,11 +19,18 @@ Bio contendo os links das minhas redes sociais.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript.
+- TailwindCSS,
 - CSS3.
 - HTML5.
 
 <br>
 
+
+## 📚 Bibliotecas
+
+- [Google Fonts](https://fonts.google.com/)
+- [ScrollReveal](https://scrollrevealjs.org/)
+- [FORMSUBMIT](https://formsubmit.co/)
 
 ## 🔗 Links
 
