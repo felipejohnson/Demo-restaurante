@@ -1,5 +1,5 @@
 <h1 align="center">
-  Demo-restaurante - Felipe Johnson ☕
+  Template Restaurante - Felipe Johnson ☕
 </h1>
 
 ![Resultado final do projeto](images/final.png)
